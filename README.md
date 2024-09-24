@@ -5,7 +5,17 @@
 - 😄 Pronouns: ...
 
 
-<!---
-Nishaweb-developer/Nishaweb-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is my first HTML-CSS project of Youtube Clone.
+Along this journey I learnt the following topics:
+HTML Basics
+CSS Basic
+Hover,Transitions,Shadow
+Basic Chrome Dev Toolss
+Images and Text Boxes
+CSS Display Property
+Grid
+FlexBox
+Nested Flexbox
+CSS Position
+
+I hope this simple project will help you to get started too... 
