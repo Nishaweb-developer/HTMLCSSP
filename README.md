@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 - 👋 Hi, I’m @Nishaweb-developer
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning CSS,JS, React Native and Python
