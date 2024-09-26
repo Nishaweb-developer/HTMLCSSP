@@ -1,6 +1,5 @@
----
-permalink: /index.html
----
+
+<a href="/index.html">Project</a>
 
 - 👋 Hi, I’m @Nishaweb-developer
 - 👀 I’m interested in Full Stack Development
