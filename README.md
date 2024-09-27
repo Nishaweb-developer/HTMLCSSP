@@ -40,15 +40,7 @@ Throughout the process of building this project, I gained knowledge in the follo
 
 To view the project on your local machine:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/youtube-clone.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd youtube-clone
-   ```
-3. Open `index.html` in your browser to view the project.
+Project Link:**https://nishaweb-developer.github.io/index.html**
 
 ## Tools Used
 
@@ -72,4 +64,3 @@ In the future, I plan to add:
 
 ---
 
-Feel free to make adjustments or let me know if you'd like to add anything!
